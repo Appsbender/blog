@@ -1,1 +1,2 @@
 # blog
+Simple blog application
